@@ -1,0 +1,3 @@
+/home/nikita/Desktop/files23/files3/build/CMakeFiles/my_first_cmake_program.dir
+/home/nikita/Desktop/files23/files3/build/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/files23/files3/build/CMakeFiles/rebuild_cache.dir
